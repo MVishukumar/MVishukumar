@@ -6,4 +6,4 @@
 - :blush: Spring Boot remains close to my heart.
 - 🤔 I’ve been learning CI/CD tools. Had some success with Gitlab, Jenkins, Artifactory and Sonarqube. Next target is Ansible to completely implement CD part.
 - 📫 How to reach me: beingvishu@gmail.com is the best place to reach me.
-- ⚡ Fun fact: I'm always moved by Mathematics fun facts. Example: X% of Y% is always Y% of X.
+- ⚡ Fun fact: I'm always moved by Mathematics fun facts. Example: x% of y is always y% of x.
