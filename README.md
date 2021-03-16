@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MVishukumar/MVishukumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - :snowman: I'm a software developer from India. 
 - :office:  I have almost 7.5 years of IT experience.
 - 🌱 I’m currently learning YAML and frontend library ReactJS.
