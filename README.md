@@ -2,7 +2,6 @@
 
 - :snowman: I'm a software developer from India. 
 - :office:  I have almost 7.5 years of IT experience.
-- :snowflake: I’m currently learning YAML and frontend library ReactJS.
 - :blush: Spring Boot enthusiast.
 - 🤔 I’ve been learning CI/CD tools. Had some success with Gitlab, Jenkins, Artifactory and Sonarqube. The next target is Ansible, to completely implement CD part.
 - 🌱 Creator of https://www.pencilnote.in
